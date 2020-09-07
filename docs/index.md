@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+Hey!
 
-You can use the [editor on GitHub](https://github.com/KWyckmans/digital-garden/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Kevin Wyckmans. I'm a software engineer working @[spotify](spotify.com). I primarily know backend stuff, but I fiddle with a lot of different things, and am always interested in learning new things.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You've landed on my site, which I created after I got inspired by reading about digital gardens. I'll add notes and pages about topics that interest me. Some things may be blog posts, some may be collections (think bullet journal collections[](https://bulletjournal.com/blogs/bulletjournalist/collections) of books, movies, and what not. I don't yet feel qualified for it, but I may even recommend a thing or two down the line.
 
-### Markdown
+You can get in touch with me by [email](kevinwyckmans@gmail.com), or [twitter](https://twitter.com/kwyckmans). I don't post a lot on the latter one, but I see what's coming in :).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KWyckmans/digital-garden/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you've got any feedback about how this is set-up, or about something I wrote, feel free to let me know, alwyas happy to improve.

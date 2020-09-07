@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 Hey!
 
 I'm Kevin Wyckmans. I'm a software engineer working @[spotify](https://spotify.com). I primarily know backend stuff, but I fiddle with a lot of different things, and am always interested in learning new things. :palm_tree:

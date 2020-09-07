@@ -10,6 +10,7 @@ Add some stuff about digital gardens and some such.
 
 Some more text
 
-```
+```python
 def foo(bar: int) -> None:
   print("whatever")
+```

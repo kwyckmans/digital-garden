@@ -11,3 +11,5 @@ minima:
   social_links:
     twitter: kwyckmans
     github: kwyckmans
+    
+show_excerpts: true

@@ -2,3 +2,8 @@ plugins:
   - jemoji
   
 theme: minima
+
+minima:
+  social_links:
+    twitter: kwyckmans
+    github: kwyckmans

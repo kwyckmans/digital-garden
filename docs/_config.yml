@@ -1,15 +1,2 @@
 plugins:
   - jemoji
-  
-theme: minima
-
-header_pages:
-  - now.md
-  - posts.md
-
-minima:
-  social_links:
-    twitter: kwyckmans
-    github: kwyckmans
-    
-show_excerpts: true

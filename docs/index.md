@@ -7,3 +7,5 @@ You've landed on my site, which I created after I got inspired by reading about 
 You can get in touch with me by [email](kevinwyckmans@gmail.com), or [twitter](https://twitter.com/kwyckmans). I don't post a lot on the latter one, but I see what's coming in :smile:.
 
 If you've got any feedback about how this is set-up, or about something I wrote, feel free to let me know, alwyas happy to improve.
+
+There's a [list of all posts]([posts.md) planted in the garde.

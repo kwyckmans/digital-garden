@@ -1,6 +1,6 @@
 Hey!
 
-I'm Kevin Wyckmans. I'm a software engineer working @[spotify](spotify.com). I primarily know backend stuff, but I fiddle with a lot of different things, and am always interested in learning new things. :palm_tree:
+I'm Kevin Wyckmans. I'm a software engineer working @[spotify](https://spotify.com). I primarily know backend stuff, but I fiddle with a lot of different things, and am always interested in learning new things. :palm_tree:
 
 You've landed on my site, which I created after I got inspired by reading about digital gardens. I'll add notes and pages about topics that interest me. Some things may be blog posts, some may be collections (think bullet journal collections[](https://bulletjournal.com/blogs/bulletjournalist/collections) of books, movies, and what not. I don't yet feel qualified for it, but I may even recommend a thing or two down the line.
 

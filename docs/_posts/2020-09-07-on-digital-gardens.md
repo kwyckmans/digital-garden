@@ -1,6 +1,7 @@
 ---
 layout:post
 title: On digital gardens
+list_title: On digital gardens
 tag: digital gardens
 ---
 

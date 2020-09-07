@@ -7,7 +7,7 @@ page_excerpts: true
 show_excerpts: true
 
 author:
-	name: Kevin Wyckmans
-	email: kevinwyckmans@gmail.com
-	github: kwyckmans
-	twitter: kwyckmans
+  name: Kevin Wyckmans
+  email: kevinwyckmans@gmail.com
+  github: kwyckmans
+  twitter: kwyckmans

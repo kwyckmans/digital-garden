@@ -2,20 +2,20 @@ html {
     font-size: $base-font-size;
   }
   
-  /**
-   * Reset some basic elements
-   */
-  body, h1, h2, h3, h4, h5, h6,
-  p, blockquote, pre, hr,
-  dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
-  
-  }
+/**
+  * Reset some basic elements
+  */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
 
-  /**
- * Basic styling
- */
+}
+
+/**
+* Basic styling
+*/
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
@@ -31,3 +31,64 @@ body {
     flex-direction: column;
     overflow-wrap: break-word;
   }
+
+/**
+ * Headings
+ */
+ h1, h2, h3, h4, h5, h6 {
+  font-weight: $base-font-weight;
+}
+
+/**
+ * Links
+ */
+a {
+  color: $link-base-color;
+  text-decoration: none;
+
+  &:visited {
+    color: $link-visited-color;
+  }
+
+  &:hover {
+    color: $link-hover-color;
+    text-decoration: underline;
+  }
+
+  .social-media-list &:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: underline;
+    }
+  }
+}
+
+/**
+ * Wrapper
+ */
+ .wrapper {
+  max-width: calc(#{$content-width} - (#{$spacing-unit}));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
+  @extend %clearfix;
+
+  @media screen and (min-width: $on-large) {
+    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+  }
+}
+
+
+
+/**
+ * Clearfix
+ */
+%clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}

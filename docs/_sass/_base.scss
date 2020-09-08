@@ -40,6 +40,28 @@ body {
 }
 
 /**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+ h1, h2, h3, h4, h5, h6,
+ p, blockquote, pre,
+ ul, ol, dl, figure,
+ %vertical-rhythm {
+   margin-bottom: $spacing-unit / 2;
+ }
+ 
+ hr {
+   margin-top: $spacing-unit;
+   margin-bottom: $spacing-unit;
+ }
+ 
+ /**
+  * `main` element
+  */
+ main {
+   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
+ }
+
+/**
  * Links
  */
 a {

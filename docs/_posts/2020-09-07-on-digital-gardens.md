@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "On digital gardens"
-tag: digital gardens
 ---
 
 Add some stuff about digital gardens and some such.
 
-## how does a title look?
+## how does a title look
 
 Some more text
 

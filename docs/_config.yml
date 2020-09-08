@@ -11,3 +11,6 @@ author:
   email: kevinwyckmans@gmail.com
   github: kwyckmans
   twitter: kwyckmans
+
+  sass:
+    sass_dir: _sass

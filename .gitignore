@@ -149,6 +149,3 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/ruby,windows,osx,linux,visualstudiocode
-
-Gemfile
-Gemfile.lock

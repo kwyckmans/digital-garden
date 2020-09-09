@@ -9,11 +9,15 @@ show_excerpts: true
 title: kevin's digital garden
 description: After reading about the concept of digital gardens, I was excited to try it out for myself
 
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
 author:
   name: Kevin Wyckmans
   email: kevinwyckmans@gmail.com
   github: kwyckmans
   twitter: kwyckmans
 
-  sass:
-    sass_dir: _sass
+sass:
+  sass_dir: _sass

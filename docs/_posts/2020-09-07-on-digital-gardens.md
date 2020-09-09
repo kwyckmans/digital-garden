@@ -9,7 +9,11 @@ Add some stuff about digital gardens and some such.
 
 Some more text
 
-```python
-def foo(bar: int) -> None:
-  print("whatever")
-```
+{% highlight python %}
+def fib(n):    # write Fibonacci series up to n
+    """Print a Fibonacci series up to n."""
+    a, b = 0, 1
+    while a < n:
+        print a,
+        a, b = b, a+b
+{% endhighlight %}

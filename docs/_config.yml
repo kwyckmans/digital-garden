@@ -1,10 +1,13 @@
 plugins:
   - jemoji
 
-# markdown: GFM
 kramdown:
-  input: GFM
   syntax_highlighter: rouge
+
+# markdown: kramdown
+# kramdown:
+#   input: GFM
+#   syntax_highlighter: rouge
 
 page_excerpts: true
 show_excerpts: true

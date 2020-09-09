@@ -1,19 +1,11 @@
-plugins:
-  - jemoji
-
-kramdown:
-  syntax_highlighter: rouge
-
-# markdown: kramdown
-# kramdown:
-#   input: GFM
-#   syntax_highlighter: rouge
+title: kevin's digital garden
+description: After reading about the concept of digital gardens, I was excited to try it out for myself
+author:
+  name: Kevin Wyckmans
+  email: kevinwyckmans@gmail.com
 
 page_excerpts: true
 show_excerpts: true
-
-title: kevin's digital garden
-description: After reading about the concept of digital gardens, I was excited to try it out for myself
 
 exclude:
   - Gemfile
@@ -25,5 +17,5 @@ author:
   github: kwyckmans
   twitter: kwyckmans
 
-sass:
-  sass_dir: _sass
+kramdown:
+  syntax_highlighter: rouge

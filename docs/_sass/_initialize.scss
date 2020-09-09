@@ -25,8 +25,8 @@ $background-color:      #fefefe !default;
 $code-background-color: #eeeeff !default;
 
 $link-base-color:       #b6e935 !default;
-$link-visited-color:    darken($link-base-color, 15%) !default;
-$link-hover-color:      $text-color !default;
+$link-visited-color:    darken($link-base-color, 25%) !default;
+$link-hover-color:      darken($link-base-color, 25%) !default; 
 
 $border-color-01:       $brand-color-light !default;
 $border-color-02:       lighten($brand-color, 35%) !default;

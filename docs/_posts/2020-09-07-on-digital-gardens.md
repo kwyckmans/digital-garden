@@ -9,6 +9,6 @@ Add some stuff about digital gardens and some such.
 
 Some more text
 
-```Python
+```python
 def foo(bar: int) -> None
 ```

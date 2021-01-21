@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "An image test"
+title: "Starting with unity...again"
 ---
-
 
 For a couple of years now, I've wanted to play (hah!) with game development. Not because of any big dreams or goals, but
 just because it seems like a fun sideproject.

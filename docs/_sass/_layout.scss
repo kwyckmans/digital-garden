@@ -120,6 +120,16 @@
     > figure {
       max-width: fit-content
     }
+
+    > figcaption {
+        color:#FFF;
+        width:100%;
+        height:20%;
+        text-align:center;
+        padding:5px;
+        font-style: italic;
+        font-weight: lighter;
+    }
   
   .page-heading {
     @include relative-font-size(2);

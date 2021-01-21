@@ -117,6 +117,9 @@
     padding: $spacing-unit 0;
     flex: 1 0 auto;
   }
+    > figure {
+      max-width: fit-content
+    }
   
   .page-heading {
     @include relative-font-size(2);

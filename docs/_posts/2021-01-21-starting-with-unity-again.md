@@ -2,7 +2,7 @@
 layout: post
 title: "Playing with unity"
 ---
-{{post.title}}
+<!-- {{post.title}} -->
 
 For a couple of years now, I've wanted to play (hah!) with game development. Not because of any big dreams or goals, but
 just because it seems like a fun sideproject. It's quite far from my day job and allows me to do things I don't usually get to do. I started out with unity a couple of times, followed various tutorials, but I never really got anywhere. This time around, I'm trying to document my experience. Not because it will magically make me more productive, but it may help me get started faster the next time around.
@@ -83,5 +83,5 @@ public class CharController : MonoBehaviour
 The source for the script is [Isometric camera and movement in unity](https://www.studica.com/blog/isometric-camera-unity). It's far from perfect and pretty glitchy, but for now, it suffices.
 
 All of this produces the following result:
-
-{% include image.html url="{{ site.url }}/assets/img/unity_spacegame_with_some_lights.png" description="Scene with a basic room, some lights and a cube that can move." %}
+<!-- 
+{% include image.html url="{{ site.url }}/assets/img/unity_spacegame_with_some_lights.png" description="Scene with a basic room, some lights and a cube that can move." %} -->

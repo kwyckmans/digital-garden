@@ -84,6 +84,6 @@ The source for the script is [Isometric camera and movement in unity](https://ww
 
 All of this produces the following result:
 
-{% include image.html url="../assets/img/unity_spacegame_with_some_lights.png" description="Scene with a basic room, some lights and a cube that can move." %}
+{% include image.html url="assets/img/unity_spacegame_with_some_lights.png" description="Scene with a basic room, some lights and a cube that can move." %}
 
-![unity scene with some cubes and some lights](../assets/img/unity_spacegame_with_some_lights.png "Scene with a basic room, some lights and a cube that can move")
+![unity scene with some cubes and some lights](assets/img/unity_spacegame_with_some_lights.png "Scene with a basic room, some lights and a cube that can move")

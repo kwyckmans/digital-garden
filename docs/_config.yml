@@ -4,6 +4,9 @@ author:
   name: Kevin Wyckmans
   email: kevinwyckmans@gmail.com
 
+site:
+  url: https://kwyckmans.github.io
+
 page_excerpts: true
 show_excerpts: true
 

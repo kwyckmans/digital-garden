@@ -86,4 +86,4 @@ All of this produces the following result:
 
 {% include image.html url="{{ site.url }}/assets/img/unity_spacegame_with_some_lights.png" description="Scene with a basic room, some lights and a cube that can move." %}
 
-![unity scene with some cubes and some lights]({{ site.url }}/assets/img/unity_spacegame_with_some_lights.png "Scene with a basic room, some lights and a cube that can move")
+<!-- ![unity scene with some cubes and some lights](/assets/img/unity_spacegame_with_some_lights.png "Scene with a basic room, some lights and a cube that can move") -->

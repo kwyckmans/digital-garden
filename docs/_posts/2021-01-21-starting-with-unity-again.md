@@ -41,7 +41,7 @@ Followed [Orthographic camera tips for Unity3D](https://thinkinginsideadifferent
 
 ## Moving around
 
-Add a sphere and a cube. Attach rigidbody to cube along with a script for basic character movement. Took movement script from [Isometric camera and movement in unity](https://www.studica.com/blog/isometric-camera-unity) as a starting point.
+Just to see the effect of the lightning I added a sphere and a cube. The cube will serve as my "character" for now. So I attached a rigidbody to the cube, along with a script for basic character movement:
 
 ```c#
 using System.Collections;
@@ -79,3 +79,9 @@ public class CharController : MonoBehaviour
     }
 }
 ```
+
+The source for the script is [Isometric camera and movement in unity](https://www.studica.com/blog/isometric-camera-unity). It's far from perfect and pretty glitchy, but for now, it suffices.
+
+All of this produces the following result:
+
+![unity scene with some cubes and some lights](/assets/img/unity_spacegame_with_some_lights.png "Scene with a basic room, some lights and a cube that can move")

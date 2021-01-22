@@ -41,11 +41,11 @@ You can also set the _size_ of the camera in unity. When changing it you zoom in
 
 With the default camera position you'll be looking at your scene in game from a sideview. What I want is a more top down view, so I rotated the camera accordingly:
 
-{% include image.html url="/assets/img/camera_rotation_settings.png" description="Camera rotation settings to get a more traditional isometric feel." %}
+{% include image.html url="/assets/img/unity_spacegame_camera_rotation_settings.png" description="Camera rotation settings to get a more traditional isometric feel." %}
 
 Unfortunately, I'm now no longer centered on my scene:
 
-{% include image.html url="/assets/img/weird_camera_position.png" description="My scene is clearly not centered anymore. Camera needs to be repositioned." %}
+{% include image.html url="/assets/img/unity_spacegame_weird_camera_position.png" description="My scene is clearly not centered anymore. Camera needs to be repositioned." %}
 
 so I had to reposition the camera a bit. This should probably be programatically set in the future.
 

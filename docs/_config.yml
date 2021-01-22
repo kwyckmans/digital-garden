@@ -25,6 +25,6 @@ plugins:
   - jekyll-sitemap
 
 collections:
-  unity:
+  pages:
     output: true
     permalink: /:collection/:path/

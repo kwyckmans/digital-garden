@@ -4,4 +4,3 @@ title: "On digital gardens"
 ---
 
 Add some stuff about digital gardens.
-

@@ -3,12 +3,5 @@ layout: post
 title: "On digital gardens"
 ---
 
-Add some stuff about digital gardens and some such.
+Add some stuff about digital gardens.
 
-## how does a title look
-
-Some more text
-
-```python
-def foo(bar: int) -> None
-```

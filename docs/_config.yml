@@ -23,3 +23,8 @@ kramdown:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+collections:
+  unity:
+    output: true
+    permalink: /:collection/:path/

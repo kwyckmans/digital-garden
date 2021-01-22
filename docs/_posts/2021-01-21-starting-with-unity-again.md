@@ -6,15 +6,15 @@ title: "Starting with unity...again"
 For a couple of years now, I've wanted to play (hah!) with game development. Not because of any big dreams or goals, but
 just because it seems like a fun sideproject.
 
-It's quite far from my day job and allows me to do things I don't usually get to do. I started out with unity a couple of times, followed various tutorials, but I never really got anywhere. This time around, I'm trying to document my experience. Not because it will magically make me more productive, but it may help me get started faster the next time around.
+It's quite far from my day job and allows me to do things I don't usually get to do. I started out with [unity](https://unity.com/) a couple of times, followed various tutorials, but never really got anywhere. This time around, I'm trying to document my experience. Not because it will magically make me more productive, but it may help me get started faster the next time around.
 
 So, to be clear, this is not a tutorial. It's more of a log of what I do and the things I learned. I will probably make stupid mistakes, since I know almost nothing of unity and game development.
 
 ## Getting up to speed
 
-I started by Installed the latest Long term release from unity hub, which I had still installed. I choose the most recent LTS version, which, at the time of writing, was **2019.4.18f1**. Everything I write below, and all unity posts that follow will be using this version.
+I started by Installing the latest Long term release from unity hub, which I had still installed. I choose the most recent LTS version, which, at the time of writing, was **2019.4.18f1**. Everything I write below, and all unity posts that follow will be using this version.
 
-Then I needed to create a new project and got bombarded by various options: 3D, 3D with extras, High definiton RP, Universal render pipeline and a bunch of greyed out options. Went with the [Universal render pipeline](https://unity.com/srp/universal-render-pipeline) since that is going to be the new default for 3D in the future.
+Then I created a new project and had to choose from various options: 3D, 3D with extras, High definiton RP, Universal render pipeline and a bunch of greyed out options. Went with the [Universal render pipeline](https://unity.com/srp/universal-render-pipeline) since that is going to be the new default for 3D in the future.
 
 Opening the project in unity gave me a default scene with models and materials. I did not delete them, rather, I created a new, empty, scene.
 
@@ -31,14 +31,23 @@ The idea is to create some sort of room, where I'll be able to walk around with 
 
 The thing I want to build is a sort of bar in a spaceship with a cyberpunk vibe. All of this in a orthographic/isometric perspective, with some clean, low-poly 3D graphics.
 
-Followed [Orthographic camera tips for Unity3D](https://thinkinginsideadifferentbox.wordpress.com/2020/09/27/orthographic_camera_tips_for_unity3d/)
-5. Set the camera to orthographic, the near camera to -1000, and locked the viewport gizmo to orthographic
-6. Did some research on what to set the camera size to, in orthographic projection:
+Found an article with [orthographic camera tips for Unity3D](https://thinkinginsideadifferentbox.wordpress.com/2020/09/27/orthographic_camera_tips_for_unity3d/), that I tried to follow, I set the camera to orthographic, the near camera to -1000, and locked the viewport gizmo to orthographic.
+
+You can also set the _size_ of the camera in unity. When changing it you zoom in/out. This allows you to show more or less (or the same amount) of a level across different resolutions and/or aspect ratios. While I should set it programatically, for now, I just set it to somthing that looks nice. More information can be found at:
+
     - [Ortho cam size according to resolution](https://answers.unity.com/questions/526841/changing-ortho-cam-size-according-to-resolution.html) 
     - [Understanding orthographic camera size](https://answers.unity.com/questions/923782/please-help-to-understand-orthographic-camera-size.html) -
     - [Camera-Orthographicsize](https://docs.unity3d.com/ScriptReference/Camera-orthographicSize.html)
-7. Rotated the floor to create the more traditional isometric perspective.
-8. Reposition camera to make sense in game
+
+With the default camera position you'll be looking at your scene in game from a sideview. What I want is a more top down view, so I rotated the camera accordingly:
+
+{% include image.html url="/assets/img/camera_rotation_settings.png" description="Camera rotation settings to get a more traditional isometric feel." %}
+
+Unfortunately, I'm now no longer centered on my scene:
+
+{% include image.html url="/assets/img/weird_camera_position.png" description="My scene is clearly not centered anymore. Camera needs to be repositioned." %}
+
+so I had to reposition the camera a bit. This should probably be programatically set in the future.
 
 ## Moving around
 

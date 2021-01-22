@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A collection of links about game development in unity.
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starting with unity...again"
-categories: unity game-development
+tags: unity game-development
 ---
 
 For a couple of years now, I've wanted to play (hah!) with game development. Not because of any big dreams or goals, but

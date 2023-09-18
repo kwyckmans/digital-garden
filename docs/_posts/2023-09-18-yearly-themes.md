@@ -1,4 +1,8 @@
-# Yearly Themes
+---
+layout: post
+title: "Yearly themes"
+tags: personal-development
+---
 
 _Inspired by [CGP Grey's youtube video on yearly themes](https://www.youtube.com/watch?v=NVGuFdX5guE) and by [taylor.town's yearly themes page](https://taylor.town/yearly-themes)_
 

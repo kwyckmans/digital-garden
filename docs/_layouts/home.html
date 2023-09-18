@@ -29,7 +29,7 @@ layout: base
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
-          </a> <small><span class="post-meta">{{ post.date | date: date_format }}</span></small>
+          </a> <small class="post-meta">{{ post.date | date: date_format }}</small>
         </h3> 
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}

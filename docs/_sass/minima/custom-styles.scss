@@ -4,3 +4,8 @@
 .site-header {
     border-top: none;
 }
+
+small {
+    font-size: $small-font-size;
+    color: $brand-color;
+}

@@ -18,6 +18,8 @@ minima:
 
 header_pages:
   - _pages/about.md
+  - _pages/now.md
+  - _pages/contact.md
 
 exclude:
   - Gemfile

@@ -1,3 +1,9 @@
+---
+layout: page
+title: now
+permalink: /now/
+---
+
 ## Current
 
 * 2023.18.09 Relaunching this blog

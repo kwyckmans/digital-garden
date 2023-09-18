@@ -3,12 +3,13 @@ $brand-color: #ccc;
 $text-color: #eee;
 $highlight: fuchsia;
 $link-base-color: fuchsia !default;
+$link-visited-color: $link-base-color !default;
 $link-hover-color: darken($link-base-color, 25%) !default;
 
 // $dm-link-base-color:       #79b8ff !default;
 // $dm-link-visited-color:    $dm-link-base-color !default;
 // $dm-link-hover-color:      $dm-text-color !default;
 
-$dm-link-base-color: fuchsia !default;
-$dm-link-visited-color: $dm-link-base-color !default;
-$dm-link-hover-color: darken($dm-link-base-color, 25%) !default;
+// $dm-link-base-color: fuchsia !default;
+// $dm-link-visited-color: $dm-link-base-color !default;
+// $dm-link-hover-color: darken($dm-link-base-color, 25%) !default;

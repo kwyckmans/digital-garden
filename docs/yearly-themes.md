@@ -6,8 +6,7 @@ _Inspired by [CGP Grey's youtube video on yearly themes](https://www.youtube.com
 
 ### Finding Stability 2023.09.13
 
-> "In order to improve for good, you need to solve problems at the systems level. Fix the inputs and the outputs will fix themselves." 
->  - James Clear
+> "In order to improve for good, you need to solve problems at the systems level. Fix the inputs and the outputs will fix themselves."  - James Clear
 
 I've written this page pretty far into 2023, but I've decided that there's plenty of time left to actually do some stuff, so without further ado. 
 

@@ -8,7 +8,7 @@ _Inspired by [CGP Grey's youtube video on yearly themes](https://www.youtube.com
 
 ## The year of stability 2023
 
-### Finding Stability 2023.09.13
+### Finding Stability <small>2023.09.13</small>
 
 > "In order to improve for good, you need to solve problems at the systems level. Fix the inputs and the outputs will fix themselves."  - James Clear
 

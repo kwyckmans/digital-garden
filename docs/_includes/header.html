@@ -25,6 +25,7 @@
               <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
               {%- endif -%}
             {%- endfor -%}
+              <a class="page-link" href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">rss</a>
           </div>
         </nav>
       {%- endif -%}

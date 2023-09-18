@@ -11,4 +11,4 @@ gem 'jekyll-feed'
 # Currently I can't run jekyll locally without uncommenting this. 
 #  and if I leave it, github pages fails to build.
 #  Need to downgrade my local ruby version to make this work (I think).
-# gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.8"

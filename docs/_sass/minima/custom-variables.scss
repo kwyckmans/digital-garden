@@ -1,10 +1,14 @@
 // Placeholder to allow overriding predefined variables smoothly.
 $brand-color: #ccc;
 $text-color: #eee;
-$highlight: fuchsia;
-$link-base-color: fuchsia !default;
-$link-visited-color: $link-base-color !default;
-$link-hover-color: darken($link-base-color, 25%) !default;
+$highlight: green;
+$link-base-color: orange !default;
+$link-visited-color: red !default;
+$link-hover-color: yellow !default;
+
+// $link-base-color: var(--minima-link-base-color);
+// $link-visited-color: var(--minima-link-visited-color);
+// $link-hover-color: var(--minima-link-hover-color);
 
 // $dm-link-base-color:       #79b8ff !default;
 // $dm-link-visited-color:    $dm-link-base-color !default;

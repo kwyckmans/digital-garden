@@ -10,4 +10,4 @@ gem "github-pages", "~> 228"
 gem "jekyll-remote-theme"
 # gem "minima", :github => 'jekyll/minima'
 
-gem "webrick", "~> 1.8"
+# gem "webrick", "~> 1.8"

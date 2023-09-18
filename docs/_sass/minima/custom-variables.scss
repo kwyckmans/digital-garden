@@ -1,6 +1,8 @@
 // Placeholder to allow overriding predefined variables smoothly.
-$brand-color:       #ccc;
-$text-color:        #eee;
-$highlight:         fuchsia;
-$link-base-color:   fuchsia;
-$link-hover-color:  darken($link-base-color, 25%) !default;
+$brand-color:         #ccc;
+$text-color:          #eee;
+$highlight:           fuchsia;
+$link-base-color:     fuchsia !default;
+$link-hover-color:      darken($link-base-color, 25%) !default;
+$dm-link-base-color:  fuchsia !default;
+$dm-link-hover-color:   darken($dm-link-base-color, 25%) !default;

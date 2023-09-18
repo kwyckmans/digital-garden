@@ -28,9 +28,8 @@ collections:
   pages:
     output: true
 
-theme: minima
+remote_theme: jekyll/minima
 
 minima:
   skin: dark
-  date_format: "%Y-%m-%d %H:%M"
-  
+  date_format: "%Y-%m-%d"

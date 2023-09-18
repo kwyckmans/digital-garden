@@ -3,9 +3,11 @@ $brand-color: #ccc;
 $text-color: #eee;
 $highlight: fuchsia;
 
-$link-base-color: fuchsia !default;
-$link-visited-color: $link-base-color !default;
-$link-hover-color: darken($link-base-color, 25%) !default;
+$link-base-color: #f0f;
+$link-visited-color: $brand-color;
+$link-hover-color: darken(#f0f, 25%);
+
+$spacing-unit: 20px;
 
 // $link-base-color: var(--minima-link-base-color);
 // $link-visited-color: var(--minima-link-visited-color);

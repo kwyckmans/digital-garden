@@ -258,6 +258,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 228)
+  jekyll-feed
   jekyll-remote-theme
   webrick (~> 1.8)
 

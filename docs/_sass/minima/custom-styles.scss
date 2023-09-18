@@ -10,6 +10,19 @@ small {
     color: $brand-color;
 }
 
-.site-title, .site-title:visited {
+.site-title,
+.site-title:visited {
     color: $highlight;
+}
+
+.post-link {
+    display: block;
+    color: green;
+    @include relative-font-size(1.3);
+}
+
+.post-list {
+    >li {
+        margin-bottom: 5px;
+    }
 }

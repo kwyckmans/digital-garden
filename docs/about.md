@@ -1,5 +1,7 @@
 ---
-title: Welcome to Kevin's digital garden
+layout: page
+title: About
+permalink: /about/
 ---
 
 Hey!

@@ -1,11 +1,17 @@
+remote_theme: jekyll/minima@master
+
+minima:
+  skin: dark
+  date_format: "%Y-%m-%d"
+
 title: kevin's digital garden
 description: After reading about the concept of digital gardens, I was excited to try it out for myself
 author:
   name: Kevin Wyckmans
   email: kevinwyckmans@gmail.com
 
-page_excerpts: true
-show_excerpts: true
+# page_excerpts: true
+# show_excerpts: true
 
 exclude:
   - Gemfile
@@ -20,17 +26,20 @@ author:
 kramdown:
   syntax_highlighter: rouge
 
+domain: kwmns.eu
+url: https://kwmns.eu
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-remote-theme
 
+header_pages:
+  - about.md
+
 collections:
   pages:
     output: true
 
-remote_theme: jekyll/minima@v3.0.0-dev
 
-minima:
-  skin: dark
-  date_format: "%Y-%m-%d"
+

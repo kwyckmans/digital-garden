@@ -29,7 +29,7 @@ collections:
   pages:
     output: true
 
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@v3.0.0-dev
 
 minima:
   skin: dark

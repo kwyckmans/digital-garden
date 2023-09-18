@@ -30,5 +30,7 @@ While my day to day is going pretty okay, I'm very impacted by unexpected things
 * Get a good music set-up
 * Get music classes rolling again
 * Think about what I really want to do and achieve
+* Start mindfulness again 
+* Start running again
 
 I'll need to learn about how to best train both cats and dogs, I'll need to do some handywork and a lot of cleaning. For the work and music set-up, I feel paralyzed by thinking about them, so I'm just going to make a set-up, it'll be clear what works and what doesn't. 

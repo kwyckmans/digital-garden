@@ -1,11 +1,10 @@
-title: kevin's digital garden
-description: After reading about the concept of digital gardens, I was excited to try it out for myself
+title: Kevin Wyckmans
+description: my small blogging space
 
 author:
   name: Kevin Wyckmans
   email: kevinwyckmans@gmail.com
   github: kwyckmans
-  twitter: kwyckmans
 
 domain: kwmns.eu
 url: https://kwmns.eu
@@ -15,6 +14,10 @@ remote_theme: jekyll/minima@master
 minima:
   skin: dark
   date_format: "%Y-%m-%d"
+  social_links:
+    - platform: mastodon
+      user_url: "mastodon.kwmns.eu"
+      title: "My self hosted mastodon server"
 
 header_pages:
   - _pages/about.md

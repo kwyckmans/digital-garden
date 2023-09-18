@@ -7,7 +7,6 @@ tags: personal-development
 _Inspired by [CGP Grey's youtube video on yearly themes](https://www.youtube.com/watch?v=NVGuFdX5guE) and by [taylor.town's yearly themes page](https://taylor.town/yearly-themes)_
 
 ## The year of stability 2023
-
 ### Finding Stability <small>2023.09.13</small>
 
 > "In order to improve for good, you need to solve problems at the systems level. Fix the inputs and the outputs will fix themselves."  - James Clear

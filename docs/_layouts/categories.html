@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 ---
 
 {% assign categories = site.pages %}
@@ -10,7 +10,7 @@ layout: page
     <li>
       <h3>
         <a class="post-link" href="{{ category.url | relative_url }}">
-          category.permalink
+          {{ category.title | escape }}
         </a>
       </h3>
     </li>

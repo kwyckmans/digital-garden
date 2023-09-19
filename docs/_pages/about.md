@@ -13,10 +13,10 @@ This blog is about:
 - Dealing with a bunch of animals and a sizeable plot of land we're trying to rewild
 
 Created and maintained in the spirit of [small-blogging](https://tomcritchlow.com/2018/02/23/small-b-blogging/). It's inspired by, and a mishmash of concepts seen on:
-- https://taylor.town
-- https://jvns.ca
-- https://www.kalzumeus.com
-- https://hynek.me
+- [taylor.town](https://taylor.town) - [11 ways to shave a yak](https://taylor.town/shave-a-yak)
+- [jvns.ca](https://jvns.ca) - [How to ask good questions?](https://jvns.ca/blog/good-questions/)
+- [kalzumeus.com](https://www.kalzumeus.com) - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+- [hynek.me](https://hynek.me) - [Subclassing in python Redux](https://hynek.me/articles/python-subclassing-redux/)
 - ...
 
 

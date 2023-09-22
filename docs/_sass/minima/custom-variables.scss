@@ -4,7 +4,7 @@ $text-color: #eee;
 $highlight: fuchsia;
 
 $link-base-color: #f0f;
-$link-visited-color: $brand-color;
+$link-visited-color: darken(#f0f, 25%);
 $link-hover-color: darken(#f0f, 25%);
 
 $spacing-unit: 20px;

@@ -10,10 +10,13 @@ _I have the typical ADHD thing, where I'm very, very good at starting projects, 
 
 * 2023.18.09 Relaunching this blog
 * 2023.19.09 Install/decorate home office
+* 2023.22.09 Buy a car 
 
 ## Recent
 
 ## Soon
+
+_A list of things I want to tackle. I had this idea this would be full of technical projects and ideas, but it seems life has decided otherwise._
 
 * 2023 Freshen up Java skills
 * 2023 Create python script for financial projections
